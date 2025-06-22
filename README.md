@@ -13,7 +13,7 @@
 - 🎯 Actively transitioning into **Data Analytics** to apply insights and build compelling dashboards.
 - 📊 Skilled in **Python, SQL, Power BI, Tableau**, and hands-on experience with **DAX and Excel**.
 - 🧠 Passionate about turning data into meaningful stories that drive decisions.
-- 📫 Reach me at: **jackandthebean1234@gmail.com**
+- 📫 Reach me at: **jimpagyatso111@gmail.com**
 
 ---
 
